@@ -13,7 +13,7 @@ O mesmo se consiste em um jogo de adivinhar a palavra correta, a mesma possui 5 
 
 ## Rodando o Projeto 🚀
 
-- Caso você não queira rodar o projeto em sua máquina, você pode simplesmente acessar o link: '' e aproveitar! :D
+- Caso você não queira rodar o projeto em sua máquina, você pode simplesmente acessar o link: https://dev-gois.github.io/lexico/ e aproveitar! :D
 
 - Antes de começar, certifique-se de ter um gerenciador de pacotes como npm ou yarn instalados em sua máquina.
 
