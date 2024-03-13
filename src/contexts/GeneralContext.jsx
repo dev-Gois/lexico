@@ -107,7 +107,6 @@ export const GeneralProvider = ({children}) => {
           newGuesses[currentWord][currentTile] = letter
           setGuesses(newGuesses);
           setCurrentTile(currentTile+1)
-          console.log(guesses)
         }
       }
     
@@ -138,7 +137,6 @@ export const GeneralProvider = ({children}) => {
     }
 
     const handleKeyUp = (e) => {
-      console.log(currentTile)
       if(wordWithoutAccents === '') {
         setWordWithoutAccents(correctWord.normalize('NFD').replace(/[\u0300-\u036f]/g, ''))
       }
